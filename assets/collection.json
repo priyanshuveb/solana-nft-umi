@@ -1,0 +1,15 @@
+{
+    "name": "yolo0",
+    "symbol": "9Sixx",
+    "description": "Write yourself",
+    "image": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/collection.jpg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "type": "image/jpg",
+                "uri": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/collection.jpg"
+            }
+        ]
+    }
+}
