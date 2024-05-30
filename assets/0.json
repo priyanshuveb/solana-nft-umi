@@ -1,0 +1,24 @@
+{
+    "name": "#01",
+    "symbol": "96",
+    "description": "blah blah #01",
+    "image": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/0.jpg",
+    "properties": {
+        "files": [
+            {
+                "type": "image/jpg",
+                "uri": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/0.jpg"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Scared",
+            "value": "10"
+        },
+        {
+            "trait_type": "Anxiety",
+            "value": "7"
+        }
+    ]
+}
