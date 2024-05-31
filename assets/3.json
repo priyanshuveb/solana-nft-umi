@@ -1,0 +1,24 @@
+{
+    "name": "#04",
+    "symbol": "99Sixx",
+    "description": "blah blah #04",
+    "image": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/3.jpg",
+    "properties": {
+        "files": [
+            {
+                "type": "image/jpg",
+                "uri": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/3.jpg"
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "Curious",
+            "value": "10"
+        },
+        {
+            "trait_type": "Disappointed",
+            "value": "7"
+        }
+    ]
+}
