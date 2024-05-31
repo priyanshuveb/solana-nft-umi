@@ -2,12 +2,12 @@
     "name": "#05",
     "symbol": "99Sixx",
     "description": "blah blah #05",
-    "image": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/4.jpg",
+    "image": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/4.jpeg",
     "properties": {
         "files": [
             {
                 "type": "image/jpg",
-                "uri": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/4.jpg"
+                "uri": "https://raw.githubusercontent.com/priyanshuveb/solana-nft-umi/main/assets/4.jpeg"
             }
         ]
     },
