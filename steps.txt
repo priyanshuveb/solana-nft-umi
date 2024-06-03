@@ -1,0 +1,4 @@
+1. create collection nft
+2. create candy machine
+3. upload all the nft metadata in the candy machine
+4. mint the nft from the candy machine
